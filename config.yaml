@@ -11,7 +11,7 @@ languages:
         weight: 1
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: ClearMind-CharosTao
         weight: 2
     ar:
         languageName: عربي

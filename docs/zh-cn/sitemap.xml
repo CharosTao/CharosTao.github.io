@@ -19,23 +19,6 @@
                 href="https://charostao.github.io/categories/"
                 />
   </url><url>
-    <loc>https://charostao.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://charostao.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://charostao.github.io/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://charostao.github.io/tags/"
-                />
-  </url><url>
     <loc>https://charostao.github.io/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,6 +34,23 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://charostao.github.io/"
+                />
+  </url><url>
+    <loc>https://charostao.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://charostao.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://charostao.github.io/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://charostao.github.io/tags/"
                 />
   </url>
 </urlset>
