@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://charostao.github.io/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://charostao.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://charostao.github.io/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://charostao.github.io/"
+                />
+  </url><url>
+    <loc>https://charostao.github.io/page/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charostao.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charostao.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://charostao.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -19,22 +46,7 @@
                 href="https://charostao.github.io/categories/"
                 />
   </url><url>
-    <loc>https://charostao.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://charostao.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://charostao.github.io/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://charostao.github.io/"
-                />
+    <loc>https://charostao.github.io/categories/cool/</loc>
   </url><url>
     <loc>https://charostao.github.io/tags/</loc>
     <xhtml:link
@@ -52,5 +64,9 @@
                 hreflang="zh-cn"
                 href="https://charostao.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://charostao.github.io/search/</loc>
+  </url><url>
+    <loc>https://charostao.github.io/%E5%8F%8B%E9%93%BE/</loc>
   </url>
 </urlset>

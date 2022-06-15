@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ClearMind-CharosTao</title>
+        <link>https://charostao.github.io/</link>
+        <description>Recent content on ClearMind-CharosTao</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 15 Jun 2022 20:09:13 +0800</lastBuildDate><atom:link href="https://charostao.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>First</title>
+        <link>https://charostao.github.io/p/first/</link>
+        <pubDate>Wed, 15 Jun 2022 20:09:13 +0800</pubDate>
+        
+        <guid>https://charostao.github.io/p/first/</guid>
+        <description>&lt;h1 id=&#34;this-is-new&#34;&gt;this is new&lt;/h1&gt;
+</description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://charostao.github.io/about/</link>
+        <pubDate>Wed, 15 Jun 2022 20:07:35 +0800</pubDate>
+        
+        <guid>https://charostao.github.io/about/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
