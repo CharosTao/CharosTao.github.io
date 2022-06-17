@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://charostao.github.io/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-17T23:48:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,16 +20,8 @@
                 href="https://charostao.github.io/"
                 />
   </url><url>
-    <loc>https://charostao.github.io/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charostao.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://charostao.github.io/%E5%85%B3%E4%BA%8E/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://charostao.github.io/categories/</loc>
+    <lastmod>2022-06-17T23:48:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -47,8 +39,19 @@
                 />
   </url><url>
     <loc>https://charostao.github.io/categories/cool/</loc>
+    <lastmod>2022-06-17T23:48:35+08:00</lastmod>
+  </url><url>
+    <loc>https://charostao.github.io/tags/lua/</loc>
+    <lastmod>2022-06-17T23:48:35+08:00</lastmod>
+  </url><url>
+    <loc>https://charostao.github.io/p/lua/</loc>
+    <lastmod>2022-06-17T23:48:35+08:00</lastmod>
+  </url><url>
+    <loc>https://charostao.github.io/post/</loc>
+    <lastmod>2022-06-17T23:48:35+08:00</lastmod>
   </url><url>
     <loc>https://charostao.github.io/tags/</loc>
+    <lastmod>2022-06-17T23:48:35+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -65,8 +68,23 @@
                 href="https://charostao.github.io/tags/"
                 />
   </url><url>
+    <loc>https://charostao.github.io/p/custom-neovim/</loc>
+    <lastmod>2022-06-16T10:47:43+08:00</lastmod>
+  </url><url>
+    <loc>https://charostao.github.io/tags/neovim/</loc>
+    <lastmod>2022-06-16T10:47:43+08:00</lastmod>
+  </url><url>
+    <loc>https://charostao.github.io/page/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charostao.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://charostao.github.io/about/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://charostao.github.io/search/</loc>
   </url><url>
-    <loc>https://charostao.github.io/%E5%8F%8B%E9%93%BE/</loc>
+    <loc>https://charostao.github.io/link/</loc>
   </url>
 </urlset>

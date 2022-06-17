@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>neovim on ClearMind-CharosTao</title>
+        <link>https://charostao.github.io/tags/neovim/</link>
+        <description>Recent content in neovim on ClearMind-CharosTao</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Thu, 16 Jun 2022 10:47:43 +0800</lastBuildDate><atom:link href="https://charostao.github.io/tags/neovim/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Custom Neovim</title>
+        <link>https://charostao.github.io/p/custom-neovim/</link>
+        <pubDate>Thu, 16 Jun 2022 10:47:43 +0800</pubDate>
+        
+        <guid>https://charostao.github.io/p/custom-neovim/</guid>
+        <description>&lt;h1 id=&#34;配置neovim作为ide&#34;&gt;配置neovim作为IDE&lt;/h1&gt;
+&lt;h2 id=&#34;前期准备&#34;&gt;前期准备&lt;/h2&gt;
+&lt;p&gt;环境要求&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;neovim&lt;/li&gt;
+&lt;li&gt;git&lt;/li&gt;
+&lt;li&gt;nodejs&lt;/li&gt;
+&lt;li&gt;npm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;heading-1&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;&lt;/h2&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
